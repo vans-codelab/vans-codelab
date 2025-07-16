@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+Hello and welcome! 🤗
+<br><br>
+
+My name is Thu Van, and I am a Software Test Engineer. 
+
+I have always been interested in coding because it enables me to build useful tools, and also simply - because it's fun!
+
+Currently, I am deep diving into Python. Below, you can follow my progress and find some of my projects.
+
+I am excited to be on GitHub, and I am looking forward to this journey of learning, exploring, and growing. 🌱
+
+<br><br>
+Thank you for visiting my page, I hope you enjoy exploring my projects!
